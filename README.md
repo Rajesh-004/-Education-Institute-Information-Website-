@@ -1,16 +1,55 @@
-# React + Vite
+# Educity – Education Institute Information Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple and responsive website created to represent an educational institute online. The goal of this project is to provide visitors and students with clear information about the institute, the courses offered, and the activities conducted.
 
-Currently, two official plugins are available:
+The website allows users to explore academic programs, understand the institute profile, and contact the institute for enquiries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+* Displays the institute profile and its educational services
+* Shows course details and available academic programs
+* Provides information about institute activities
+* Simple and user-friendly navigation across pages
+* Contact and enquiry section for students
+* Responsive layout for better viewing on different devices
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+* React JS
+* HTML
+* CSS
+* JavaScript
+* React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/educity.git
+```
+
+2. Move to the project folder
+
+```
+cd educity
+```
+
+3. Install dependencies
+
+```
+npm install
+```
+
+4. Run the project
+
+```
+npm run dev
+```
+
+The project will run locally on your browser.
+
+## Purpose of the Project
+
+This project was developed as part of my learning in web development to improve my skills in building responsive websites using React and modern front-end technologies.
+
